@@ -1,0 +1,1 @@
+This an AI-powered Scheme Navigation Co-Pilot- "Sarthi" which makes welfare access smarter by automating eligibility matching, safer by reducing fraud, and inclusive by supporting regional languages and voice interfaces for illiterate users.
